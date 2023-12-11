@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Clord77 - an aspiring SOC Analyst.
 - 👀 I’m interested in Cyber Security. Specifically blue team concepts and practices.
 - 🌱 I’m currently learning about ransomware on RangeForce's Community Edition.
 
